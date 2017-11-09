@@ -28,7 +28,6 @@ li {
 /* ==========
    工具样式
    ========== */
-
 .center-block {
     display: block;
     margin-right: auto;
@@ -374,7 +373,7 @@ header .main ul li a.active {
 .feature .item {
     display: inline-block;
     /*calc css3计算方法  计算式动态的
-     
+
      * */
     width: calc(33.33333% - 3rem);
     padding: 1rem 1rem 1rem 1rem;
