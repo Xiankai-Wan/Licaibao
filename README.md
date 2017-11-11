@@ -6,7 +6,7 @@
 ## 项目总结：
 
 ### 关于bootstrap：
-* 前端响应式框架，目前最热的响应式框架之一，可以关注[GitHub repo](https://github.com/twbs/bootstrap) 其主要的特色是简介、方便、兼容性好。
+* 前端响应式框架，目前最热的响应式框架之一，可以关注[Bootstrap GitHub repo](https://github.com/twbs/bootstrap) 其主要的特色是简介、方便、兼容性好。
 
 ### 项目技术点：
 * 基于Bootstrap框架和jQuery库进行响应式开发,使用jQuery开发轮播图
